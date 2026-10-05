@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rodeo-stampede.com/sitemap.xml
